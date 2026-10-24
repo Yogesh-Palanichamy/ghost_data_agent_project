@@ -1,0 +1,2 @@
+# Main audit pipeline uses Python standard library only.
+# Optional local OCR tools: pdftotext and tesseract.
